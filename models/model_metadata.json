@@ -1,0 +1,143 @@
+{
+  "model_version": "1.0.0",
+  "trained_at": "2026-10-26T13:58:34",
+  "algorithm": "DecisionTreeClassifier(max_depth=4, min_samples_leaf=10, random_state=42)",
+  "data_source": "Synthetic demo data",
+  "features": [
+    "Service_Type",
+    "Requester_Type",
+    "Requested_Channel",
+    "Priority",
+    "Assigned_Office",
+    "Required_Documents_Complete",
+    "Submission_Weekday",
+    "Queue_Length",
+    "SLA_Days"
+  ],
+  "categorical_features": [
+    "Service_Type",
+    "Requester_Type",
+    "Requested_Channel",
+    "Priority",
+    "Assigned_Office",
+    "Required_Documents_Complete",
+    "Submission_Weekday"
+  ],
+  "numeric_features": [
+    "Queue_Length",
+    "SLA_Days"
+  ],
+  "excluded_leakage_fields": [
+    "Processing_Days",
+    "Status",
+    "Reopened",
+    "Satisfaction_Score"
+  ],
+  "categories": {
+    "Service_Type": [
+      "Certification",
+      "Enrollment",
+      "IT Support",
+      "Records",
+      "Scholarship Inquiry"
+    ],
+    "Requester_Type": [
+      "Faculty",
+      "Staff",
+      "Student"
+    ],
+    "Requested_Channel": [
+      "Email",
+      "Portal",
+      "Walk-in"
+    ],
+    "Priority": [
+      "High",
+      "Low",
+      "Normal"
+    ],
+    "Assigned_Office": [
+      "Accounting Office",
+      "IT Office",
+      "Registrar",
+      "Scholarship Office"
+    ],
+    "Required_Documents_Complete": [
+      "No",
+      "Yes"
+    ],
+    "Submission_Weekday": [
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Thursday",
+      "Friday",
+      "Saturday",
+      "Sunday"
+    ]
+  },
+  "numeric_ranges": {
+    "Queue_Length": [
+      0,
+      200
+    ],
+    "SLA_Days": [
+      1,
+      60
+    ]
+  },
+  "n_train": 173,
+  "n_test": 44,
+  "metrics": {
+    "accuracy": 0.5,
+    "precision": 0.531,
+    "recall": 0.708,
+    "f1": 0.607
+  },
+  "baseline_metrics": {
+    "accuracy": 0.545,
+    "precision": 0.545,
+    "recall": 1.0,
+    "f1": 0.706
+  },
+  "confusion_matrix": [
+    [
+      5,
+      15
+    ],
+    [
+      7,
+      17
+    ]
+  ],
+  "feature_importance": {
+    "Assigned_Office": 0.45412974147293195,
+    "Queue_Length": 0.2687449576440227,
+    "Required_Documents_Complete": 0.13309833750226255,
+    "Submission_Weekday": 0.07447509852878278,
+    "Requested_Channel": 0.0695518648520001,
+    "Service_Type": 0.0,
+    "Requester_Type": 0.0,
+    "Priority": 0.0,
+    "SLA_Days": 0.0
+  },
+  "midterm_report_metrics": {
+    "accuracy": 0.667,
+    "precision": 0.72,
+    "recall": 0.692,
+    "f1": 0.706,
+    "baseline_f1": 0.732,
+    "confusion_matrix": [
+      [
+        12,
+        7
+      ],
+      [
+        8,
+        18
+      ]
+    ],
+    "n_train": 178,
+    "n_test": 45
+  }
+}

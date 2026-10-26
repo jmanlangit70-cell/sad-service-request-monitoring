@@ -1,0 +1,301 @@
+Request_ID,Service_Type,Requester_Type,Submission_Date,Requested_Channel,Priority,Assigned_Office,Queue_Length,Required_Documents_Complete,Processing_Days,SLA_Days,Status,Reopened,Satisfaction_Score
+REQ0001,Enrollment,Staff,2026-01-20,Email,Normal,IT Office,26,Yes,2.0,3,Completed,No,1.0
+REQ0002,Certification,Student,2026-05-16,Walk-in,Normal,Accounting Office,14,Yes,4.0,5,Completed,No,5.0
+REQ0003,Scholarship Inquiry,Faculty,2026-04-26,Portal,Normal,Accounting Office,29,Yes,9.0,5,Completed,No,3.0
+REQ0004,IT Support,Staff,2026-03-20,Email,High,Accounting Office,22,Yes,7.0,5,Completed,No,2.0
+REQ0005,Scholarship Inquiry,Staff,2026-03-19,Walk-in,Normal,Accounting Office,19,Yes,3.0,5,Completed,No,3.0
+REQ0006,IT Support,Staff,2026-05-30,Email,Normal,Scholarship Office,27,Yes,7.0,5,Completed,No,2.0
+REQ0007,Records,Student,2026-01-19,Walk-in,Low,Accounting Office,15,Yes,,5,Pending,No,
+REQ0008,IT Support,Student,2026-05-03,Walk-in,Normal,Accounting Office,21,No,3.0,2,Completed,No,5.0
+REQ0009,Enrollment,Faculty,2026-02-08,Portal,Normal,IT Office,8,Yes,2.0,3,Completed,Yes,1.0
+REQ0010,Enrollment,Student,2026-01-21,Portal,Low,Scholarship Office,28,Yes,8.0,3,Completed,No,4.0
+REQ0011,Scholarship Inquiry,Student,2026-04-04,Email,Normal,Accounting Office,18,Yes,,7,Cancelled,No,
+REQ0012,Certification,Student,2026-06-19,Walk-in,Normal,Scholarship Office,23,Yes,8.0,5,Completed,No,1.0
+REQ0013,Scholarship Inquiry,Student,2026-05-10,Portal,Normal,Accounting Office,13,Yes,4.0,5,Completed,No,5.0
+REQ0014,Scholarship Inquiry,Student,2026-05-14,Portal,Normal,IT Office,26,Yes,9.0,7,Completed,No,1.0
+REQ0015,IT Support,Faculty,2026-05-06,Email,Normal,Scholarship Office,2,No,6.0,3,Completed,No,2.0
+REQ0016,Records,Student,2026-05-18,Portal,Normal,Accounting Office,3,Yes,,5,Cancelled,No,
+REQ0017,Enrollment,Faculty,2026-04-02,Walk-in,Low,Registrar,15,Yes,9.0,5,Completed,No,3.0
+REQ0018,Enrollment,Faculty,2026-01-26,Email,Low,IT Office,21,Yes,7.0,5,Completed,No,3.0
+REQ0019,Records,Student,2026-05-27,Email,Normal,Registrar,24,Yes,5.0,3,Completed,No,2.0
+REQ0020,Certification,Student,2026-03-22,Walk-in,High,Accounting Office,13,Yes,8.0,7,Completed,No,1.0
+REQ0021,Records,Student,2026-03-31,Email,Low,Scholarship Office,19,Yes,,7,Pending,No,
+REQ0022,IT Support,Staff,2026-03-09,Email,Normal,Accounting Office,16,Yes,3.0,3,Completed,No,5.0
+REQ0023,Records,Faculty,2026-02-05,Walk-in,Normal,IT Office,28,Yes,9.0,5,Completed,No,5.0
+REQ0024,Certification,Student,2026-06-11,Walk-in,High,IT Office,19,No,,5,Pending,No,
+REQ0025,Scholarship Inquiry,Student,2026-05-17,Walk-in,Normal,Registrar,12,Yes,,5,Pending,No,
+REQ0026,Scholarship Inquiry,Student,2026-04-24,Portal,Normal,Accounting Office,29,No,11.0,7,Completed,No,3.0
+REQ0027,Records,Student,2026-03-14,Email,Normal,IT Office,3,Yes,3.0,5,Completed,No,4.0
+REQ0028,Certification,Staff,2026-05-24,Portal,High,Registrar,29,Yes,5.0,5,Completed,No,4.0
+REQ0029,Certification,Faculty,2026-04-07,Walk-in,Low,Accounting Office,4,No,5.0,7,Completed,No,3.0
+REQ0030,Enrollment,Student,2026-03-21,Email,High,Accounting Office,8,No,10.0,5,Completed,No,2.0
+REQ0031,Certification,Staff,2026-03-22,Portal,Low,Scholarship Office,24,Yes,11.0,7,Completed,No,3.0
+REQ0032,Certification,Student,2026-02-12,Portal,High,Registrar,22,No,,10,Pending,Yes,
+REQ0033,IT Support,Staff,2026-01-20,Portal,Low,Scholarship Office,29,Yes,,2,Pending,No,
+REQ0034,Records,Student,2026-04-09,Email,Low,Accounting Office,22,Yes,,5,Pending,No,
+REQ0035,Enrollment,Student,2026-06-04,Portal,Low,IT Office,19,No,,3,Cancelled,No,
+REQ0036,IT Support,Staff,2026-01-15,Portal,Normal,IT Office,10,Yes,,5,Pending,No,
+REQ0037,Records,Student,2026-05-30,Walk-in,Normal,Accounting Office,0,No,,3,Pending,No,
+REQ0038,Scholarship Inquiry,Student,2026-05-25,Walk-in,Low,Scholarship Office,3,Yes,,5,Pending,Yes,
+REQ0039,Enrollment,Staff,2026-02-21,Portal,Normal,Registrar,8,No,3.0,3,Completed,No,4.0
+REQ0040,Records,Student,2026-04-22,Portal,Normal,Registrar,1,Yes,10.0,5,Completed,No,2.0
+REQ0041,Certification,Student,2026-02-02,Walk-in,Normal,Scholarship Office,15,Yes,8.0,10,Completed,No,2.0
+REQ0042,Scholarship Inquiry,Student,2026-05-13,Email,High,IT Office,23,Yes,3.0,5,Completed,No,1.0
+REQ0043,Scholarship Inquiry,Student,2026-05-04,Email,Normal,Scholarship Office,28,Yes,8.0,7,Completed,No,5.0
+REQ0044,Enrollment,Student,2026-03-06,Portal,Low,Accounting Office,14,Yes,7.0,3,Completed,No,3.0
+REQ0045,Scholarship Inquiry,Student,2026-01-16,Portal,Normal,Registrar,26,Yes,3.0,5,Completed,No,4.0
+REQ0046,Scholarship Inquiry,Faculty,2026-06-19,Portal,High,Registrar,29,Yes,9.0,5,Completed,No,4.0
+REQ0047,IT Support,Student,2026-03-21,Email,Low,Accounting Office,25,Yes,4.0,5,Completed,No,1.0
+REQ0048,Certification,Student,2026-06-05,Portal,Normal,Registrar,13,Yes,,5,Pending,No,
+REQ0049,Scholarship Inquiry,Faculty,2026-04-30,Portal,High,Scholarship Office,9,Yes,,7,Pending,No,
+REQ0050,Records,Student,2026-05-17,Email,High,Registrar,29,Yes,7.0,3,Completed,No,4.0
+REQ0051,Enrollment,Faculty,2026-05-14,Walk-in,Normal,Scholarship Office,7,Yes,4.0,3,Completed,No,2.0
+REQ0052,Certification,Student,2026-02-07,Walk-in,Normal,Registrar,12,Yes,10.0,5,Completed,No,5.0
+REQ0053,IT Support,Staff,2026-03-07,Portal,Normal,Registrar,2,No,,3,Pending,No,
+REQ0054,Scholarship Inquiry,Student,2026-03-25,Portal,Normal,Accounting Office,23,Yes,,5,Pending,No,
+REQ0055,Scholarship Inquiry,Student,2026-03-30,Portal,Low,Registrar,19,Yes,12.0,7,Completed,No,1.0
+REQ0056,Scholarship Inquiry,Staff,2026-01-12,Portal,Low,Accounting Office,2,Yes,,7,Pending,No,
+REQ0057,Scholarship Inquiry,Student,2026-04-07,Email,Normal,Accounting Office,6,Yes,4.0,5,Completed,No,5.0
+REQ0058,IT Support,Student,2026-01-31,Portal,Low,IT Office,16,Yes,8.0,3,Completed,No,3.0
+REQ0059,Scholarship Inquiry,Student,2026-05-11,Email,Normal,IT Office,16,Yes,,7,Cancelled,No,
+REQ0060,IT Support,Student,2026-05-01,Walk-in,Normal,Registrar,24,No,2.0,3,Completed,No,2.0
+REQ0061,Enrollment,Student,2026-06-10,Walk-in,High,Registrar,7,Yes,2.0,3,Completed,No,1.0
+REQ0062,IT Support,Student,2026-05-11,Portal,High,Registrar,27,Yes,2.0,3,Completed,No,5.0
+REQ0063,Scholarship Inquiry,Student,2026-03-08,Portal,Normal,Registrar,13,No,5.0,7,Completed,No,3.0
+REQ0064,Enrollment,Student,2026-06-18,Portal,Normal,Registrar,24,Yes,,3,Pending,No,
+REQ0065,Enrollment,Student,2026-03-15,Portal,Normal,Accounting Office,7,Yes,,5,Cancelled,No,
+REQ0066,Enrollment,Student,2026-03-01,Portal,Normal,IT Office,1,No,4.0,5,Completed,No,1.0
+REQ0067,Scholarship Inquiry,Student,2026-06-07,Portal,Low,Accounting Office,1,No,11.0,7,Completed,No,1.0
+REQ0068,Scholarship Inquiry,Student,2026-03-08,Walk-in,High,Accounting Office,11,Yes,,5,Pending,No,
+REQ0069,Certification,Student,2026-01-17,Portal,High,Accounting Office,28,Yes,9.0,10,Completed,No,3.0
+REQ0070,Records,Student,2026-03-25,Walk-in,High,IT Office,1,Yes,,3,Pending,No,
+REQ0071,Records,Student,2026-05-20,Portal,High,Accounting Office,11,Yes,3.0,3,Completed,Yes,1.0
+REQ0072,IT Support,Student,2026-02-06,Portal,High,Registrar,3,Yes,5.0,3,Completed,No,2.0
+REQ0073,IT Support,Student,2026-03-24,Portal,Low,Accounting Office,27,Yes,,3,Pending,No,
+REQ0074,Certification,Student,2026-01-27,Portal,High,Registrar,20,Yes,10.0,7,Completed,No,3.0
+REQ0075,Records,Student,2026-05-01,Portal,Normal,Accounting Office,22,No,7.0,3,Completed,No,3.0
+REQ0076,Certification,Student,2026-03-26,Walk-in,Normal,Scholarship Office,21,Yes,8.0,5,Completed,No,5.0
+REQ0077,Scholarship Inquiry,Faculty,2026-03-02,Portal,Normal,Accounting Office,19,Yes,8.0,5,Completed,No,5.0
+REQ0078,IT Support,Student,2026-02-12,Portal,Normal,Registrar,23,Yes,6.0,3,Completed,No,2.0
+REQ0079,IT Support,Student,2026-04-10,Email,Normal,IT Office,0,No,2.0,3,Completed,No,5.0
+REQ0080,Scholarship Inquiry,Student,2026-04-28,Portal,Low,Registrar,25,Yes,,7,Cancelled,No,
+REQ0081,Scholarship Inquiry,Student,2026-06-13,Email,Low,Registrar,22,Yes,,7,Cancelled,No,
+REQ0082,Records,Student,2026-03-20,Portal,Normal,Registrar,22,Yes,7.0,7,Completed,No,2.0
+REQ0083,Certification,Student,2026-02-01,Walk-in,High,Scholarship Office,11,Yes,12.0,7,Completed,No,4.0
+REQ0084,IT Support,Student,2026-05-26,Portal,Normal,Scholarship Office,24,Yes,8.0,3,Completed,No,5.0
+REQ0085,Certification,Student,2026-04-22,Portal,Normal,IT Office,11,Yes,,7,Cancelled,No,
+REQ0086,Enrollment,Faculty,2026-05-04,Email,Normal,IT Office,1,Yes,5.0,5,Completed,No,1.0
+REQ0087,Records,Staff,2026-01-21,Walk-in,Normal,IT Office,27,No,9.0,5,Completed,No,1.0
+REQ0088,Enrollment,Student,2026-02-27,Portal,Low,IT Office,7,No,7.0,3,Completed,No,1.0
+REQ0089,Scholarship Inquiry,Student,2026-05-15,Email,High,IT Office,3,Yes,3.0,5,Completed,No,4.0
+REQ0090,Scholarship Inquiry,Faculty,2026-05-26,Portal,Low,Scholarship Office,18,Yes,7.0,7,Completed,No,3.0
+REQ0091,Enrollment,Student,2026-03-19,Portal,Normal,IT Office,7,Yes,5.0,3,Completed,No,3.0
+REQ0092,Enrollment,Faculty,2026-05-21,Portal,Normal,Registrar,25,No,,5,Pending,No,
+REQ0093,Scholarship Inquiry,Student,2026-05-28,Email,Normal,Accounting Office,13,Yes,,5,Pending,No,
+REQ0094,IT Support,Staff,2026-03-11,Portal,High,Scholarship Office,0,Yes,,3,Pending,No,
+REQ0095,IT Support,Staff,2026-06-06,Email,Normal,Accounting Office,28,Yes,5.0,3,Completed,No,1.0
+REQ0096,Certification,Student,2026-02-23,Portal,High,Registrar,15,No,11.0,7,Completed,Yes,3.0
+REQ0097,IT Support,Student,2026-02-14,Walk-in,Normal,Scholarship Office,7,Yes,,3,Pending,No,
+REQ0098,Records,Student,2026-05-01,Walk-in,Normal,IT Office,20,Yes,,5,Pending,No,
+REQ0099,Records,Student,2026-04-23,Portal,Normal,IT Office,15,Yes,7.0,7,Completed,No,2.0
+REQ0100,Records,Student,2026-01-28,Portal,High,Accounting Office,0,No,,5,Pending,No,
+REQ0101,IT Support,Staff,2026-05-26,Portal,High,Registrar,22,Yes,5.0,5,Completed,No,5.0
+REQ0102,Certification,Student,2026-02-07,Walk-in,Normal,Accounting Office,12,Yes,,10,Pending,No,
+REQ0103,Records,Student,2026-05-21,Portal,High,Accounting Office,20,No,5.0,5,Completed,No,3.0
+REQ0104,Records,Faculty,2026-01-06,Email,Normal,Scholarship Office,26,No,5.0,7,Completed,No,1.0
+REQ0105,Scholarship Inquiry,Student,2026-05-20,Portal,Normal,Accounting Office,18,Yes,7.0,5,Completed,No,5.0
+REQ0106,Enrollment,Student,2026-05-18,Walk-in,High,Registrar,20,Yes,7.0,5,Completed,No,1.0
+REQ0107,Enrollment,Staff,2026-05-17,Portal,Normal,Accounting Office,7,Yes,7.0,5,Completed,No,1.0
+REQ0108,Scholarship Inquiry,Student,2026-04-28,Email,Normal,Scholarship Office,7,No,11.0,7,Completed,No,2.0
+REQ0109,Scholarship Inquiry,Student,2026-03-26,Walk-in,Low,Accounting Office,12,Yes,6.0,7,Completed,No,2.0
+REQ0110,IT Support,Student,2026-05-04,Portal,Low,Accounting Office,25,Yes,,3,Pending,No,
+REQ0111,Scholarship Inquiry,Staff,2026-02-21,Walk-in,High,IT Office,15,Yes,4.0,5,Completed,No,2.0
+REQ0112,Enrollment,Student,2026-05-17,Portal,Normal,IT Office,10,Yes,3.0,5,Completed,No,2.0
+REQ0113,Records,Student,2026-04-09,Portal,Normal,Accounting Office,23,No,,3,Pending,No,
+REQ0114,Scholarship Inquiry,Student,2026-03-24,Walk-in,Low,Scholarship Office,25,Yes,6.0,5,Completed,No,3.0
+REQ0115,Certification,Student,2026-03-31,Email,Normal,IT Office,27,Yes,5.0,7,Completed,No,5.0
+REQ0116,Scholarship Inquiry,Staff,2026-04-11,Email,High,Registrar,8,No,,7,Pending,No,
+REQ0117,Records,Student,2026-01-11,Portal,High,Accounting Office,21,No,,5,Pending,No,
+REQ0118,Scholarship Inquiry,Staff,2026-01-28,Portal,Low,Scholarship Office,17,No,10.0,5,Completed,No,4.0
+REQ0119,Scholarship Inquiry,Student,2026-02-15,Portal,Normal,Accounting Office,13,Yes,,5,Pending,No,
+REQ0120,Scholarship Inquiry,Student,2026-01-24,Email,Normal,IT Office,11,Yes,7.0,5,Completed,No,4.0
+REQ0121,Scholarship Inquiry,Staff,2026-03-20,Portal,Normal,IT Office,3,Yes,4.0,5,Completed,No,5.0
+REQ0122,Scholarship Inquiry,Student,2026-04-28,Portal,Normal,IT Office,8,Yes,9.0,5,Completed,No,2.0
+REQ0123,Scholarship Inquiry,Student,2026-04-26,Portal,Normal,Scholarship Office,16,No,11.0,7,Completed,No,1.0
+REQ0124,IT Support,Staff,2026-03-26,Portal,Normal,Registrar,26,Yes,,5,Pending,No,
+REQ0125,IT Support,Student,2026-05-30,Portal,Normal,IT Office,25,Yes,5.0,5,Completed,No,2.0
+REQ0126,Records,Student,2026-04-11,Portal,Normal,IT Office,5,No,,3,Pending,No,
+REQ0127,Records,Staff,2026-01-18,Walk-in,Normal,Registrar,20,Yes,6.0,3,Completed,No,5.0
+REQ0128,IT Support,Student,2026-05-15,Email,High,IT Office,2,Yes,1.0,2,Completed,No,3.0
+REQ0129,Certification,Student,2026-04-12,Portal,Normal,Registrar,20,Yes,6.0,7,Completed,No,1.0
+REQ0130,Certification,Student,2026-04-22,Email,Normal,Accounting Office,10,Yes,9.0,7,Completed,No,2.0
+REQ0131,Scholarship Inquiry,Student,2026-04-11,Walk-in,High,Accounting Office,13,Yes,,5,Pending,No,
+REQ0132,Scholarship Inquiry,Student,2026-04-09,Portal,High,Registrar,21,Yes,9.0,5,Completed,No,2.0
+REQ0133,Scholarship Inquiry,Student,2026-01-20,Portal,Low,Scholarship Office,12,No,6.0,7,Completed,No,3.0
+REQ0134,Records,Student,2026-04-10,Portal,Normal,Registrar,24,Yes,5.0,3,Completed,Yes,4.0
+REQ0135,IT Support,Student,2026-05-20,Portal,Normal,Accounting Office,16,Yes,2.0,2,Completed,No,2.0
+REQ0136,Records,Student,2026-02-25,Walk-in,Normal,Scholarship Office,29,Yes,,7,Pending,No,
+REQ0137,Scholarship Inquiry,Student,2026-04-17,Walk-in,Low,Scholarship Office,19,Yes,6.0,7,Completed,No,2.0
+REQ0138,Records,Student,2026-01-10,Portal,Normal,Registrar,8,Yes,,3,Cancelled,Yes,
+REQ0139,IT Support,Faculty,2026-03-05,Email,Normal,Accounting Office,23,Yes,1.0,3,Completed,No,2.0
+REQ0140,Scholarship Inquiry,Student,2026-03-20,Portal,Normal,IT Office,12,Yes,12.0,7,Completed,No,3.0
+REQ0141,Enrollment,Student,2026-06-21,Email,High,Scholarship Office,16,Yes,10.0,5,Completed,No,1.0
+REQ0142,Scholarship Inquiry,Staff,2026-02-10,Walk-in,Normal,Scholarship Office,4,No,7.0,7,Completed,No,5.0
+REQ0143,Certification,Student,2026-02-21,Portal,High,IT Office,3,Yes,,7,Pending,No,
+REQ0144,Scholarship Inquiry,Student,2026-03-15,Portal,High,Registrar,17,Yes,,5,Cancelled,Yes,
+REQ0145,Enrollment,Staff,2026-06-22,Email,High,Scholarship Office,5,No,,5,Pending,No,
+REQ0146,Certification,Student,2026-05-30,Walk-in,Low,Registrar,29,No,3.0,5,Completed,No,5.0
+REQ0147,Certification,Student,2026-01-10,Portal,High,Registrar,25,Yes,4.0,5,Completed,No,1.0
+REQ0148,Enrollment,Student,2026-02-13,Portal,Low,IT Office,21,Yes,3.0,5,Completed,No,1.0
+REQ0149,Enrollment,Student,2026-05-24,Portal,Normal,IT Office,22,Yes,9.0,5,Completed,No,2.0
+REQ0150,IT Support,Student,2026-01-14,Email,High,Registrar,17,Yes,1.0,2,Completed,No,3.0
+REQ0151,Enrollment,Faculty,2026-05-30,Email,Normal,Registrar,1,Yes,4.0,5,Completed,Yes,4.0
+REQ0152,Scholarship Inquiry,Student,2026-02-21,Walk-in,Normal,IT Office,11,Yes,3.0,5,Completed,No,3.0
+REQ0153,IT Support,Faculty,2026-06-10,Walk-in,Normal,Accounting Office,14,Yes,,3,Pending,No,
+REQ0154,IT Support,Staff,2026-02-23,Walk-in,High,IT Office,27,Yes,7.0,5,Completed,No,1.0
+REQ0155,Certification,Student,2026-03-19,Walk-in,Normal,Accounting Office,6,No,5.0,5,Completed,No,4.0
+REQ0156,Records,Faculty,2026-04-27,Portal,Normal,IT Office,14,Yes,7.0,7,Completed,No,5.0
+REQ0157,Records,Faculty,2026-01-26,Email,High,Accounting Office,10,Yes,4.0,5,Completed,Yes,3.0
+REQ0158,IT Support,Staff,2026-04-09,Portal,Low,Accounting Office,4,Yes,6.0,5,Completed,Yes,3.0
+REQ0159,Records,Student,2026-03-31,Portal,Low,Accounting Office,3,Yes,10.0,5,Completed,No,2.0
+REQ0160,Scholarship Inquiry,Student,2026-05-18,Walk-in,Normal,IT Office,10,Yes,4.0,5,Completed,No,5.0
+REQ0161,IT Support,Student,2026-06-23,Email,High,IT Office,2,No,,5,Pending,No,
+REQ0162,Records,Student,2026-04-27,Walk-in,Low,IT Office,2,No,,7,Pending,No,
+REQ0163,Scholarship Inquiry,Student,2026-03-15,Portal,Low,IT Office,10,No,4.0,5,Completed,No,1.0
+REQ0164,Records,Student,2026-03-15,Email,Low,Registrar,6,No,6.0,7,Completed,No,5.0
+REQ0165,Records,Student,2026-03-17,Portal,High,Scholarship Office,16,No,6.0,7,Completed,No,3.0
+REQ0166,Records,Staff,2026-05-23,Portal,Low,IT Office,0,No,9.0,5,Completed,No,5.0
+REQ0167,Records,Student,2026-02-28,Portal,Normal,IT Office,9,Yes,10.0,7,Completed,No,4.0
+REQ0168,IT Support,Student,2026-02-02,Email,High,Scholarship Office,13,Yes,1.0,3,Completed,No,3.0
+REQ0169,Records,Student,2026-03-02,Portal,Low,Scholarship Office,28,Yes,8.0,5,Completed,Yes,3.0
+REQ0170,Certification,Student,2026-01-08,Walk-in,Normal,IT Office,19,Yes,10.0,5,Completed,No,2.0
+REQ0171,Certification,Student,2026-01-23,Portal,Normal,Scholarship Office,26,Yes,12.0,10,Completed,No,3.0
+REQ0172,IT Support,Student,2026-01-20,Portal,High,Accounting Office,10,No,6.0,2,Completed,No,4.0
+REQ0173,Records,Student,2026-05-16,Walk-in,Normal,IT Office,13,Yes,,7,Pending,No,
+REQ0174,IT Support,Student,2026-05-07,Portal,Normal,Accounting Office,12,Yes,3.0,3,Completed,No,3.0
+REQ0175,Certification,Student,2026-05-03,Walk-in,Low,IT Office,26,Yes,6.0,7,Completed,No,5.0
+REQ0176,IT Support,Student,2026-03-24,Email,Normal,Registrar,28,Yes,,2,Pending,Yes,
+REQ0177,Enrollment,Student,2026-05-06,Portal,Normal,Scholarship Office,28,Yes,8.0,5,Completed,No,3.0
+REQ0178,IT Support,Student,2026-02-01,Email,Low,Registrar,22,No,5.0,2,Completed,No,3.0
+REQ0179,IT Support,Student,2026-06-07,Email,Normal,IT Office,15,Yes,,3,Pending,Yes,
+REQ0180,Records,Student,2026-03-31,Walk-in,High,Registrar,16,Yes,11.0,7,Completed,No,2.0
+REQ0181,Enrollment,Student,2026-06-13,Walk-in,Low,Registrar,29,Yes,9.0,5,Completed,No,5.0
+REQ0182,Scholarship Inquiry,Faculty,2026-01-30,Email,Normal,Scholarship Office,8,Yes,9.0,7,Completed,No,1.0
+REQ0183,Enrollment,Staff,2026-03-30,Email,Normal,Scholarship Office,10,Yes,5.0,5,Completed,No,2.0
+REQ0184,Certification,Staff,2026-05-03,Portal,Normal,Registrar,26,No,5.0,7,Completed,No,4.0
+REQ0185,Scholarship Inquiry,Student,2026-03-30,Email,Normal,Registrar,11,No,8.0,5,Completed,Yes,2.0
+REQ0186,IT Support,Student,2026-03-21,Walk-in,Normal,Scholarship Office,7,Yes,6.0,5,Completed,No,5.0
+REQ0187,Scholarship Inquiry,Student,2026-02-02,Email,Low,Scholarship Office,16,No,7.0,7,Completed,No,4.0
+REQ0188,Enrollment,Faculty,2026-03-10,Email,Normal,Registrar,9,Yes,5.0,5,Completed,No,1.0
+REQ0189,Scholarship Inquiry,Faculty,2026-02-14,Portal,Normal,IT Office,26,No,5.0,7,Completed,No,2.0
+REQ0190,Certification,Faculty,2026-02-25,Walk-in,Normal,Accounting Office,27,Yes,9.0,5,Completed,No,4.0
+REQ0191,Scholarship Inquiry,Staff,2026-05-01,Walk-in,Low,IT Office,9,Yes,,7,Pending,No,
+REQ0192,Certification,Student,2026-04-22,Portal,High,Accounting Office,15,No,11.0,7,Completed,Yes,5.0
+REQ0193,Enrollment,Faculty,2026-04-18,Portal,Low,Registrar,29,Yes,7.0,5,Completed,No,5.0
+REQ0194,IT Support,Faculty,2026-03-07,Email,Normal,Accounting Office,22,Yes,7.0,3,Completed,No,1.0
+REQ0195,Enrollment,Student,2026-06-17,Portal,Normal,IT Office,6,Yes,8.0,3,Completed,No,4.0
+REQ0196,Enrollment,Staff,2026-01-19,Email,Normal,Scholarship Office,17,Yes,6.0,3,Completed,No,1.0
+REQ0197,Certification,Student,2026-03-04,Portal,Low,Registrar,18,Yes,11.0,10,Completed,No,1.0
+REQ0198,Records,Staff,2026-01-25,Portal,Low,Scholarship Office,19,No,7.0,7,Completed,No,4.0
+REQ0199,IT Support,Faculty,2026-03-03,Email,Normal,IT Office,0,No,,2,Pending,No,
+REQ0200,Scholarship Inquiry,Student,2026-06-17,Email,Low,Scholarship Office,8,Yes,,5,Pending,No,
+REQ0201,IT Support,Student,2026-03-08,Email,Low,Scholarship Office,25,Yes,4.0,3,Completed,No,5.0
+REQ0202,Scholarship Inquiry,Student,2026-06-08,Email,Normal,Registrar,7,Yes,9.0,5,Completed,No,1.0
+REQ0203,IT Support,Faculty,2026-03-30,Email,High,Registrar,8,Yes,7.0,5,Completed,No,3.0
+REQ0204,IT Support,Faculty,2026-05-03,Walk-in,Low,Scholarship Office,9,Yes,4.0,2,Completed,No,5.0
+REQ0205,Records,Student,2026-03-23,Email,High,Registrar,5,No,4.0,3,Completed,No,3.0
+REQ0206,IT Support,Staff,2026-02-19,Email,Normal,Registrar,4,No,,2,Pending,No,
+REQ0207,Enrollment,Student,2026-05-14,Email,High,Accounting Office,10,No,,3,Pending,Yes,
+REQ0208,Enrollment,Student,2026-06-18,Portal,Normal,Scholarship Office,26,Yes,,5,Pending,Yes,
+REQ0209,IT Support,Student,2026-02-18,Portal,Normal,Scholarship Office,0,Yes,4.0,5,Completed,No,1.0
+REQ0210,IT Support,Student,2026-05-17,Email,Normal,IT Office,8,Yes,,2,Cancelled,No,
+REQ0211,Certification,Student,2026-02-18,Walk-in,Normal,Registrar,1,Yes,7.0,7,Completed,No,5.0
+REQ0212,Scholarship Inquiry,Student,2026-05-06,Email,High,Accounting Office,16,Yes,4.0,5,Completed,No,5.0
+REQ0213,Scholarship Inquiry,Student,2026-05-19,Portal,Low,IT Office,7,Yes,3.0,5,Completed,No,3.0
+REQ0214,Scholarship Inquiry,Student,2026-03-22,Email,Normal,Registrar,23,Yes,,5,Cancelled,No,
+REQ0215,IT Support,Staff,2026-05-10,Portal,Low,IT Office,17,No,1.0,2,Completed,No,2.0
+REQ0216,Records,Student,2026-02-20,Email,High,Registrar,23,Yes,,5,Pending,No,
+REQ0217,Enrollment,Staff,2026-01-18,Walk-in,Normal,Accounting Office,19,No,6.0,5,Completed,No,5.0
+REQ0218,IT Support,Student,2026-01-21,Email,Normal,Registrar,13,Yes,,3,Cancelled,Yes,
+REQ0219,Records,Student,2026-03-21,Email,High,IT Office,25,Yes,6.0,7,Completed,No,4.0
+REQ0220,Certification,Student,2026-06-07,Portal,High,Scholarship Office,14,Yes,12.0,7,Completed,No,1.0
+REQ0221,Enrollment,Student,2026-01-26,Portal,Low,Registrar,28,Yes,,3,Cancelled,No,
+REQ0222,Records,Student,2026-03-23,Walk-in,Normal,Scholarship Office,29,Yes,3.0,3,Completed,No,4.0
+REQ0223,Records,Student,2026-05-04,Email,High,IT Office,17,Yes,2.0,3,Completed,No,5.0
+REQ0224,Records,Student,2026-02-08,Email,Low,Scholarship Office,20,No,3.0,3,Completed,No,1.0
+REQ0225,Scholarship Inquiry,Student,2026-05-07,Portal,Normal,Scholarship Office,7,Yes,9.0,7,Completed,No,3.0
+REQ0226,Scholarship Inquiry,Student,2026-02-26,Portal,Normal,Registrar,24,Yes,9.0,7,Completed,No,3.0
+REQ0227,Certification,Student,2026-05-22,Portal,Normal,IT Office,20,Yes,9.0,10,Completed,No,3.0
+REQ0228,Records,Faculty,2026-04-13,Portal,Normal,IT Office,27,Yes,4.0,5,Completed,No,1.0
+REQ0229,Records,Student,2026-04-07,Portal,Normal,Registrar,8,Yes,,5,Pending,No,
+REQ0230,Enrollment,Staff,2026-02-04,Walk-in,Low,Accounting Office,23,Yes,5.0,5,Completed,No,2.0
+REQ0231,IT Support,Faculty,2026-03-24,Email,Low,Scholarship Office,14,No,1.0,3,Completed,No,4.0
+REQ0232,Certification,Staff,2026-05-30,Portal,Low,IT Office,5,No,11.0,10,Completed,No,2.0
+REQ0233,Enrollment,Faculty,2026-01-08,Portal,Normal,Accounting Office,5,Yes,6.0,5,Completed,No,3.0
+REQ0234,IT Support,Student,2026-05-13,Portal,Normal,Accounting Office,16,Yes,10.0,5,Completed,No,4.0
+REQ0235,Records,Student,2026-03-29,Walk-in,Low,Scholarship Office,9,Yes,,5,Pending,No,
+REQ0236,Certification,Student,2026-05-07,Portal,Normal,Accounting Office,3,No,,5,Pending,No,
+REQ0237,Enrollment,Faculty,2026-04-27,Walk-in,Normal,Registrar,12,Yes,6.0,5,Completed,No,4.0
+REQ0238,Certification,Student,2026-03-19,Walk-in,Normal,IT Office,19,Yes,6.0,7,Completed,No,1.0
+REQ0239,Scholarship Inquiry,Student,2026-02-26,Portal,High,Scholarship Office,9,Yes,10.0,7,Completed,No,1.0
+REQ0240,Certification,Staff,2026-04-21,Email,Normal,Registrar,28,No,12.0,7,Completed,No,5.0
+REQ0241,IT Support,Student,2026-01-28,Walk-in,High,Accounting Office,23,Yes,9.0,5,Completed,No,2.0
+REQ0242,Scholarship Inquiry,Student,2026-04-14,Portal,Low,Accounting Office,15,No,8.0,5,Completed,No,5.0
+REQ0243,IT Support,Faculty,2026-01-21,Portal,Normal,Registrar,28,No,4.0,5,Completed,No,3.0
+REQ0244,IT Support,Student,2026-04-25,Walk-in,High,IT Office,12,Yes,9.0,5,Completed,No,2.0
+REQ0245,Scholarship Inquiry,Student,2026-04-21,Walk-in,High,Accounting Office,4,No,3.0,5,Completed,No,2.0
+REQ0246,Records,Faculty,2026-01-19,Email,Normal,Registrar,1,Yes,4.0,5,Completed,No,4.0
+REQ0247,Enrollment,Student,2026-05-13,Email,Normal,Accounting Office,28,Yes,8.0,5,Completed,No,1.0
+REQ0248,Records,Student,2026-03-16,Portal,Normal,Scholarship Office,28,Yes,12.0,7,Completed,No,3.0
+REQ0249,Records,Student,2026-05-18,Walk-in,Normal,Scholarship Office,22,No,5.0,7,Completed,No,2.0
+REQ0250,Records,Student,2026-01-12,Portal,Normal,IT Office,3,Yes,11.0,7,Completed,No,1.0
+REQ0251,Records,Student,2026-02-04,Portal,High,Accounting Office,8,Yes,3.0,5,Completed,No,2.0
+REQ0252,Certification,Staff,2026-03-29,Email,Normal,Scholarship Office,1,Yes,10.0,7,Completed,No,3.0
+REQ0253,Enrollment,Staff,2026-02-05,Walk-in,Low,Registrar,1,Yes,,3,Pending,No,
+REQ0254,Scholarship Inquiry,Student,2026-03-02,Walk-in,Normal,IT Office,7,Yes,6.0,7,Completed,No,1.0
+REQ0255,Certification,Student,2026-04-27,Portal,Low,IT Office,17,Yes,,5,Pending,Yes,
+REQ0256,Certification,Student,2026-01-29,Portal,Low,IT Office,1,Yes,,7,Pending,No,
+REQ0257,Records,Faculty,2026-04-30,Walk-in,Normal,Registrar,29,No,2.0,3,Completed,No,4.0
+REQ0258,Enrollment,Student,2026-01-22,Walk-in,Normal,IT Office,13,Yes,7.0,5,Completed,No,5.0
+REQ0259,Scholarship Inquiry,Student,2026-02-03,Email,Low,IT Office,7,Yes,6.0,5,Completed,No,3.0
+REQ0260,Certification,Student,2026-04-14,Email,Low,Scholarship Office,15,Yes,,7,Cancelled,Yes,
+REQ0261,IT Support,Staff,2026-05-19,Portal,Low,Registrar,23,Yes,4.0,3,Completed,Yes,4.0
+REQ0262,IT Support,Student,2026-02-03,Portal,High,IT Office,9,Yes,,3,Pending,No,
+REQ0263,Scholarship Inquiry,Staff,2026-02-24,Portal,Normal,Scholarship Office,1,Yes,7.0,7,Completed,Yes,1.0
+REQ0264,Certification,Student,2026-06-11,Portal,Low,Accounting Office,1,No,11.0,7,Completed,No,3.0
+REQ0265,Scholarship Inquiry,Staff,2026-06-22,Portal,Low,IT Office,25,Yes,6.0,7,Completed,No,5.0
+REQ0266,Scholarship Inquiry,Student,2026-04-13,Walk-in,Normal,Registrar,3,Yes,7.0,5,Completed,No,5.0
+REQ0267,Scholarship Inquiry,Student,2026-03-21,Portal,Normal,IT Office,19,Yes,8.0,5,Completed,No,3.0
+REQ0268,Enrollment,Staff,2026-03-04,Portal,Normal,IT Office,11,No,4.0,3,Completed,No,2.0
+REQ0269,Scholarship Inquiry,Staff,2026-04-19,Email,Normal,Registrar,23,Yes,,7,Pending,No,
+REQ0270,Certification,Student,2026-04-15,Portal,High,Registrar,1,Yes,,10,Pending,No,
+REQ0271,IT Support,Student,2026-02-24,Portal,Normal,IT Office,26,No,7.0,3,Completed,No,1.0
+REQ0272,Scholarship Inquiry,Student,2026-01-08,Email,Normal,Registrar,20,Yes,7.0,7,Completed,No,3.0
+REQ0273,Scholarship Inquiry,Student,2026-01-30,Portal,Low,Accounting Office,13,No,3.0,5,Completed,No,5.0
+REQ0274,Scholarship Inquiry,Student,2026-06-16,Email,High,Registrar,6,Yes,,5,Pending,No,
+REQ0275,IT Support,Staff,2026-03-17,Walk-in,High,Scholarship Office,29,Yes,7.0,2,Completed,No,3.0
+REQ0276,Enrollment,Student,2026-03-27,Portal,Normal,IT Office,9,Yes,,3,Pending,No,
+REQ0277,Scholarship Inquiry,Faculty,2026-03-25,Walk-in,Normal,Scholarship Office,14,No,9.0,5,Completed,No,3.0
+REQ0278,Certification,Student,2026-05-18,Walk-in,Low,Registrar,11,Yes,10.0,5,Completed,No,1.0
+REQ0279,Scholarship Inquiry,Student,2026-01-16,Walk-in,High,Registrar,6,Yes,10.0,5,Completed,No,3.0
+REQ0280,Enrollment,Student,2026-01-19,Email,Normal,IT Office,12,Yes,4.0,3,Completed,No,3.0
+REQ0281,Certification,Student,2026-02-20,Email,Low,IT Office,4,Yes,,7,Pending,No,
+REQ0282,Enrollment,Student,2026-03-28,Email,Normal,Scholarship Office,0,Yes,5.0,5,Completed,Yes,2.0
+REQ0283,Enrollment,Student,2026-04-29,Email,Normal,Scholarship Office,8,Yes,4.0,5,Completed,No,4.0
+REQ0284,Enrollment,Staff,2026-03-29,Portal,High,Scholarship Office,3,No,,3,Cancelled,No,
+REQ0285,Scholarship Inquiry,Faculty,2026-03-20,Walk-in,Normal,Registrar,12,Yes,,5,Cancelled,No,
+REQ0286,Scholarship Inquiry,Staff,2026-06-13,Email,Normal,Accounting Office,25,Yes,,5,Pending,No,
+REQ0287,Scholarship Inquiry,Student,2026-02-01,Walk-in,Normal,Scholarship Office,4,Yes,8.0,5,Completed,No,5.0
+REQ0288,IT Support,Student,2026-04-12,Portal,Normal,IT Office,0,Yes,3.0,3,Completed,No,2.0
+REQ0289,Enrollment,Student,2026-04-07,Portal,Normal,Scholarship Office,3,Yes,,5,Pending,No,
+REQ0290,IT Support,Student,2026-03-26,Email,Low,IT Office,15,Yes,1.0,2,Completed,No,5.0
+REQ0291,Certification,Student,2026-05-22,Email,Normal,Registrar,8,Yes,6.0,7,Completed,No,1.0
+REQ0292,Scholarship Inquiry,Student,2026-02-19,Portal,Normal,Accounting Office,14,Yes,,5,Pending,No,
+REQ0293,Enrollment,Student,2026-06-16,Portal,Normal,Scholarship Office,0,Yes,8.0,3,Completed,No,1.0
+REQ0294,Scholarship Inquiry,Student,2026-03-02,Portal,Low,IT Office,9,Yes,10.0,7,Completed,No,4.0
+REQ0295,Records,Student,2026-04-07,Email,Low,Registrar,12,Yes,,5,Cancelled,No,
+REQ0296,Enrollment,Student,2026-04-03,Portal,Normal,Registrar,12,Yes,7.0,5,Completed,No,4.0
+REQ0297,Certification,Student,2026-05-29,Walk-in,Low,Scholarship Office,16,Yes,12.0,10,Completed,No,2.0
+REQ0298,IT Support,Student,2026-03-20,Portal,Low,Scholarship Office,23,No,5.0,5,Completed,No,2.0
+REQ0299,Scholarship Inquiry,Student,2026-02-22,Portal,Normal,Scholarship Office,14,No,7.0,7,Completed,No,5.0
+REQ0300,IT Support,Student,2026-01-08,Portal,Normal,Registrar,25,Yes,1.0,3,Completed,Yes,5.0
